@@ -1,0 +1,78 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 6-Dec-2017, 9:22:04 AM
+    Author     : konno
+*/
+
+.dummy{
+    
+}
+
+.header{
+    height:     15%;
+    width:      100%;
+    background-color: lightgray;
+    position: relative;
+    display: inline-block;
+    text-align: center;
+}
+
+#login{
+    margin-right:       10em;
+    margin-top:         3em;
+    width:      13em;
+    height:     13em;
+    position:   relative;
+    float:      right;
+    background-color:   #e8f442; 
+}
+
+#loginForm{
+    margin:     1em;
+    width:      15em;
+    height:     11em;
+    float:      left;
+}
+
+.btn{
+    border: none;
+    color: white;
+    padding: 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    border-radius: 12px;
+}
+
+#btnSubmit{
+    background-color: #4CAF50;
+}
+
+#btnRegister{
+    background-color: #f48342;
+}
+
+#btnHeader{
+    background-color: #494949;
+    border: none;
+    color: white;
+    padding: 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    border-radius: 12px;
+}
+
+.block{
+    margin:1px;
+    text-align:left;
+    display:inline-block;
+}
